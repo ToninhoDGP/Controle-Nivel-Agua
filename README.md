@@ -1,4 +1,8 @@
 # 🚰 Sistema de Monitoramento de Reservatório
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Colorama-Linguagem-informational?style=for-the-badge&logo=python&color=green)
 
 Este projeto foi desenvolvido como parte das atividades da **Agenda 11** do curso de **Desenvolvimento de Sistemas (Etec)**. O objetivo é simular um painel de controle que monitora os níveis de água de um reservatório, utilizando feedback visual colorido no terminal para indicar diferentes estados de criticidade.
 
