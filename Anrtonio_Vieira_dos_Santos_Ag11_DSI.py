@@ -6,6 +6,7 @@ init()
 def definir_cor_nivel(nivel):
     """
     Função responsável por retornar a cor correspondente 
+    
     ao nível do reservatório.
     """
     if nivel == "Nível 1":
